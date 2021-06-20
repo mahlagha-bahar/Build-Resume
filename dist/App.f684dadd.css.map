@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/components/resume.module.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"App.f684dadd.css","sourceRoot":"..","sourcesContent":[".aboutMeText {\r\n  display: flex;\r\n  flex-direction: column;\r\n}\r\n.redColor {\r\n  color: red !important;\r\n}\r\n"]}

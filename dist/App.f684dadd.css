@@ -1,0 +1,10 @@
+.aboutMeText {
+  display: flex;
+  flex-direction: column;
+}
+.redColor {
+  color: red !important;
+}
+
+
+/*# sourceMappingURL=/App.f684dadd.css.map */
